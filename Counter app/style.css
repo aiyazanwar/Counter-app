@@ -1,4 +1,3 @@
-/* body ka background */
 body {
     background-color: lightblue;
     text-align: center;
@@ -15,13 +14,12 @@ body {
     border-radius: 20px;
 }
 
-/* number dikhega screen pe */
 #number {
     font-size: 80px;
     font-weight: bold;
 }
 
-/* plus button ki styling*/
+/* plus button */
 #plus {
     background-color: green;
     color: white;
