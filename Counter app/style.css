@@ -1,0 +1,55 @@
+/* body ka background */
+body {
+    background-color: lightblue;
+    text-align: center;
+    padding-top: 100px;
+    font-family: Arial;
+}
+
+/* white box all content */
+.box {
+    background-color: white;
+    width: 300px;
+    margin: 0 auto;
+    padding: 40px;
+    border-radius: 20px;
+}
+
+/* number dikhega screen pe */
+#number {
+    font-size: 80px;
+    font-weight: bold;
+}
+
+/* plus button ki styling*/
+#plus {
+    background-color: green;
+    color: white;
+    font-size: 22px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    margin: 5px;
+}
+
+/* minus button */
+#minus {
+    background-color: red;
+    color: white;
+    font-size: 22px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    margin: 5px;
+}
+
+/* reset button */
+#reset {
+    background-color: gray;
+    color: white;
+    font-size: 22px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    margin: 5px;
+}
